@@ -8,4 +8,4 @@ Black Book consolidates individual event-driven decision case studies under a si
 Most, if not all, Black Book event case studies are analyzed vis-à-vis the [God's Eye framework](https://github.com/Austin-Angdjaja/gods-eye). By nature, God's Eye is incomplete, and evolves to incorporate new frameworks, rationale, and decision logics.
 
 ## NOTES
-Additional event case studies will be added over time.
+Additional event case studies will be added over time. Some case studies may be deemed complete; others, works-in-progress. Updates may be sporadic.
